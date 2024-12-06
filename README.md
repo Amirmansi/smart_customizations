@@ -1,2 +1,7 @@
-# smart_customizations
-smart_customizations
+## Smart Customizations
+
+Smart Customization
+
+#### License
+
+MIT

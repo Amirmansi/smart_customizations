@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include smart_customizations *.css
+recursive-include smart_customizations *.csv
+recursive-include smart_customizations *.html
+recursive-include smart_customizations *.ico
+recursive-include smart_customizations *.js
+recursive-include smart_customizations *.json
+recursive-include smart_customizations *.md
+recursive-include smart_customizations *.png
+recursive-include smart_customizations *.py
+recursive-include smart_customizations *.svg
+recursive-include smart_customizations *.txt
+recursive-exclude smart_customizations *.pyc
