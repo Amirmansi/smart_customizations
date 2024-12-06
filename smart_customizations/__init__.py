@@ -1,3 +1,1 @@
-
-__version__ = '0.0.1'
-
+__version__ = '15.0.0'  # You can set this to the version matching ERPNext v15
